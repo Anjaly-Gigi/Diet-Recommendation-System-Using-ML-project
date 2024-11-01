@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/564x/e1/6b/9b/e16b9b785a2dbf4da268e64a3bd88f31.jpg" width="300" height="200">
 </p>
-  Diet Recommendation System Using K-Means 
+ <h3><u> Diet Recommendation System Using K-Means </u></h3>
 
   The project gives a personalized diet recommendation system based on the individual nutritional needs 
 
