@@ -11,5 +11,6 @@
 <h4><u>DATASET</u></h4>
 
 The dataset is taken from Kaggle repository.The food.com dataset gives you the recipe and its nutritional information which consist of 522715 rows and 28 columns
-datasetlink:https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews?select=recipes.csv
+
+<u>dataset link</u> :https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews?select=recipes.csv
   
